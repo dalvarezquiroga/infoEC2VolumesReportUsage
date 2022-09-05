@@ -40,7 +40,7 @@ AWS_PROFILE=XXX python3 infoEC2VolumesReportUsage.py
 
 If everything is working well, we will see a new Excel in your same location:
 
-![Result](/assets/result.png)
+![Result](/assets/result.PNG)
 
 # Licence
 
